@@ -18,5 +18,5 @@ We can also pair technical indicators with other external factors (qualitative f
 
 <b>OR</b>
 
-<i>Visit https://nbviewer.jupyter.org/github/tejaslinge/Risk-Management-and-Markowitz-Efficient-Frontier/blob/main/Risk%20Measures%20and%20Efficient%20Frontier.ipynb to view complete Jupyter notebook.
+<i>Visit https://nbviewer.jupyter.org/github/tejaslinge/Technical-Analysis-using-Python/blob/main/BankNifty.ipynb to view complete Jupyter notebook.
 </i>
