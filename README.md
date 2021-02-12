@@ -1,6 +1,6 @@
 # Technical Analysis and backtesting using Python
 
-Technical indicators are heuristic or pattern-based signals produced by the price, volume, and/or open interest of a security or contract used by traders who follow technical analysis. (<i>src: https://www.investopedia.com/terms/t/technicalindicator.asp#:~:text=Technical%20indicators%20are%20heuristic%20or,to%20predict%20future%20price%20movements.)
+Technical indicators are heuristic or pattern-based signals produced by the price, volume, and/or open interest of a security or contract used by traders who follow technical analysis. (<i>src: https://www.investopedia.com/terms/t/technicalindicator.asp#:~:text=Technical%20indicators%20are%20heuristic%20or,to%20predict%20future%20price%20movements.</i>)
 
 In this project, I've demonstrated how to use these technical indicators to trade in the stock markets and backtested the results using Python. Technical indicators used for analysis in this project are: 
 
